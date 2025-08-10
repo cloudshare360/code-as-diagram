@@ -1,4 +1,4 @@
-**Elevating Cloud Architecture with Mermaid.js**
+# **Elevating Cloud Architecture with Mermaid.js**
 
 ## **Introduction**
 
